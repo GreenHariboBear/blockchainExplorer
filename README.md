@@ -10,9 +10,6 @@ To help new people with understanding our products, Enecuum maintains a [Vuepres
 
 ## Contribution :pencil:
 
-By forking the repository, you can add description to your PoS contract. See [the according guide](https://github.com/Enecuum/docs/blob/master/enq/how-to-pos.md#add-description-to-your-pos-contract) for details.
+By forking the repository, you can add description to your PoS contract. See guide for details.
 
-## License :scroll:
-
-[MIT](LICENSE)
 
